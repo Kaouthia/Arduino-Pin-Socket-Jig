@@ -10,10 +10,14 @@ It's a simple jig to use. Simply insert your 1x40 pin socket into the top, hold 
 
 [ Video Goes Here ]
 
-# Arduino Uno Form Factor Laout
+# Arduino Uno Form Factor Layout
 
 These are the four pin sockets this jig is designed to help you create. You will have a 4-pin socket left over spare at the end of it.
 
 ![Arduino Uno Form Factor Layout](https://github.com/Kaouthia/Arduino-Pin-Socket-Jig/blob/main/images/arduino-uno-pin-sockets.jpg?raw=true)
 
 The board I'm making is not Arduino-compatible, however, it follows the same form factor. This is mostly because there are 3 million Arduino cases and other accesories out there that still work, including plenty of 3D printed ones.
+
+# Future Development
+
+I doubt this will be updated. It does the job just fine. I might add other jigs for other form factors of board that need sockets of specific lengths. While you can just count, using a jig makes it easy to do without mistakes.
