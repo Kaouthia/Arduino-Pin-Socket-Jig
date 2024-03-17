@@ -6,7 +6,7 @@ This 3D-printable jig allows me to create the four required pin sockets for the 
 
 # How to use the Jig
 
-It's a simple jig to use. Simply insert your 1x40 pin socket into the top, hold it in and pluck out the four pins from the bottom. You can use the gaps in the jig to help start your initial cut in the centre of each gap. Or, you can just pull the whole thing out and cut them afterwards. For a longer explanation, you can watch the video below.
+It's a simple jig to use. One printed, simply insert your 1x40 pin socket into the top, hold it in and pluck out the four pins from the bottom. You can use the gaps in the jig to help start your initial cut in the centre of each gap. Or, you can just pull the whole thing out and cut them afterwards. For a longer explanation, you can watch the video below.
 
 [ Video Goes Here ]
 
